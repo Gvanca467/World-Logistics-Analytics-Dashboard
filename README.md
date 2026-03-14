@@ -17,7 +17,7 @@ This project presents an **End-to-End Logistics Analytics** solution designed to
 *   **Equipment Optimization:** Analyzed profit distribution between **20ft and 40ft containers**, showing a near-equal split (51.78% vs 48.22%) in revenue contribution.
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](BI project.jpeg) 
+![Dashboard Preview](dashboard.jpeg)
 
 ---
 **Created by Gvantsa| Logistics Data Analyst**
